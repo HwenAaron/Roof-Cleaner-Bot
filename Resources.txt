@@ -7,3 +7,5 @@ openvSlam
 https://github.com/xdspacelab/openvslam
 breezySlam
 https://github.com/simondlevy/BreezySLAM
+MRPT
+https://www.mrpt.org/
