@@ -1,0 +1,12 @@
+Overview 
+1. drone to identify dandelion using CV. 
+2. find coordinate of dandelion and send coordinate to ground bot
+3. ground bot travel to coordiante and kill dandelion
+
+Dandelion Detection:
+    1. MS Custom Vision
+        a. Build Dandelion Identifier:
+            1. scrape dandelion images
+                I. Google image scraper ( https://github.com/hardikvasa/google-images-download )
+            2. train model
+        b. Build Danelion Detection 
