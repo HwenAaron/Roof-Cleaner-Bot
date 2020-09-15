@@ -29,6 +29,5 @@ def gen():
 
 
 
-app.run(host='192.168.0.16', port=7070, debug=True)
-#app.run(host='192.168.0.114', port=7070, debug=True)
+app.run(host='x.x.x.x', port=7070, debug=True)
 
